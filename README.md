@@ -4,14 +4,16 @@
 
 ### Features of TaskFlow:
 
-- User Authentication using Firebase and JWT
-- User Private Route
-- Add Task
 - User Task Dashboard
+- To-Do List
+- Add Task
 - Update Task
 - Delete Task
-- To-Do List
 - User Profile
+- User Authentication using Firebase and JWT
+- User Private Route
+
+---
 
 ### Technologies which have been used in this app:
 
